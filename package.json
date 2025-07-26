@@ -1,8 +1,9 @@
 {
-  "name": "reactcicd",
+  "name": "CiCdWeek2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://shankar5455.github.io/CiCdWeek2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
